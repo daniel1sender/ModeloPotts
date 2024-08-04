@@ -1,4 +1,5 @@
 Modelagem de Rede para Materiais Ferromagnéticos na Área de Física Estatística
+
 Este repositório contém o código desenvolvido durante um trabalho de iniciação científica na UFBA, implementado em Fortran, para modelagem de rede de materiais ferromagnéticos utilizando o modelo de Potts. O objetivo é simular e analisar o comportamento de redes de spins, calculando a energia total do sistema e aplicando o algoritmo de Metropolis.
 
 Estrutura do Código
